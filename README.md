@@ -1,3 +1,3 @@
 # R-Practice
 
-* First stab at learning R
+li First stab at learning R
